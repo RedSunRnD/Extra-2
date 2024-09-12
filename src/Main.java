@@ -18,6 +18,6 @@ public class Main {
                 limit = limit * 1.5;
             }
         }
-        System.out.println("Ваш лимит на расходы: " + limit + " рублей");
+        System.out.println("Ваш лимит на расходы: " + limit + " рублей.");
     }
 }
